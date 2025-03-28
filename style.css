@@ -332,6 +332,6 @@ textarea {
 
 @media(width <= 412px) {
   input {
-    width: 50%;
+    width: 200px;
   }
 }
