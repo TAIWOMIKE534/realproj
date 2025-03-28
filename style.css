@@ -330,8 +330,8 @@ textarea {
   flex-wrap: wrap;
 }
 
-@media(max-width: 881) {
-  .form {
+@media(width <= 412px) {
+  input {
     width: 50%;
   }
 }
